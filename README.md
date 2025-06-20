@@ -42,9 +42,3 @@ O servlet precisa ser implantado em um servidor de aplicações Java como Tomcat
 ## Requisitos
 - Java JDK 8 ou superior
 - Para o servlet: Servidor de aplicações Java (Tomcat, Jetty, etc.)
-
-## Autor
-[Seu Nome]
-
-## Licença
-Este projeto é disponibilizado sob a licença [escolha sua licença].
